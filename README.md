@@ -18,3 +18,6 @@
   python manage.py runserver (iniciando o servidor)	
 	
 5. NAVEGUE PELO IP LOCAL: 127.0.0.1
+
+
+DEPLOY DO PROJETO: https://strategi.herokuapp.com/
