@@ -1,3 +1,6 @@
+teste realizado para processo seletivo de uma vaga desenvolvedor back-end junior.
+realizado em 3 dias.
+
 1. CLONE OU FAÇA DOWNLOAD DESTE REPOSITORIO;	
 
 2.ATIVE O AMBIENTE VIRTUAL USANDO:	
